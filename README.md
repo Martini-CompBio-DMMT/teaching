@@ -14,3 +14,7 @@
 * Esploriamo le sequenze di RNA del vaccino del COVID-19
 * Perchè la scienza rassicura sul fatto che sono sicuri?
 
+Le sequenze del vaccino si trovano nel file mRNA-vaccines-covid19.fa
+scopriamo per cosa codificano.
+
+
