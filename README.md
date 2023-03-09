@@ -3,8 +3,8 @@
 ## Ex1 - Scenario 1 Nuova infezione
 
 * A Brescia, ci sono 10 casi di febbre "insolita" che sono stati isolati
-* Abbiamo sequenziato ti tamponi a cusi si sono sottoposti
-* Abbiamo sequenziato DNA e RNA estratto
+* Abbiamo sequenziato i tamponi a cui sono stati sottoposti i pazienti
+* Abbiamo sequenziato il DNA e l'RNA estratto
 * Le sequenze sono state salvate nel file [microbiome-sequencing-res.fa](./microbiome-sequencing-res.fa)
 * Dobbiamo capire qual’è il patogeno
 
